@@ -1,3 +1,3 @@
-##The website can be accessed here- 
+## The website can be accessed here- 
 
-###Technology Stack- HTML, CSS, Javascript
+### Technology Stack- HTML, CSS, Javascript
